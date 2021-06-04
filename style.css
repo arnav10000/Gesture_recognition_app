@@ -1,0 +1,45 @@
+body {
+
+  background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
+}
+
+span {
+    font-size: 30px;
+}
+
+#camera,
+#result {
+    border: 2px groove rgb(0, 0, 0);
+    width: 400px;
+    height: 350px;
+}
+
+#result_emotion_name,
+#result_emotion_name2 {
+    color: black;
+}
+
+.emotion_name {
+    font-size: 40px;
+}
+
+.emoji {
+    font-size: 48px;
+}
+
+.haeding {
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+#div{
+    width: auto;
+    height: auto;
+}
+
+#p{
+    font-size: 30px;
+    color: aliceblue;
+}
