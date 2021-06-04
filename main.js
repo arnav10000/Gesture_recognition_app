@@ -33,7 +33,7 @@ function speak(){
 }
 
 function check(){
-    img = document.getElementById('caaptured_image');
+    img = document.getElementById('captured_image');
     classifier.classify(img, gotResult);
 }
 
